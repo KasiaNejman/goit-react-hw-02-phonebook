@@ -10,6 +10,9 @@
 .logo {
   height: 7em;
   padding: 2em;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
   will-change: filter;
   transition: filter 300ms;
 }
