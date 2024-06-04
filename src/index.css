@@ -20,7 +20,10 @@ code {
   gap: 20px;
     
 }
-
+.wrap {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;}
 .logo {
   height: 7em;
   padding: 2em;
