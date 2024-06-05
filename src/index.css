@@ -11,10 +11,11 @@ body {
 style={
         height: 100vh;
         display: flex;
+        flex-direction: column;
         justifyContent: center;
         alignItems: center;
         fontSize: 40;
-        color: #010101;
+        color: #008B8B;
       }
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
